@@ -1,0 +1,80 @@
+const knowledge = {
+
+"what is mobile application development":
+"Mobile Application Development is the process of designing, developing, testing and maintaining applications for smartphones and tablets.",
+
+"define mobile application development":
+"Mobile Application Development is the process of creating software applications for mobile devices such as smartphones and tablets.",
+
+"what is android":
+"Android is a mobile operating system developed by Google.",
+
+"what is ios":
+"iOS is Apple's mobile operating system used in iPhones and iPads.",
+
+"what is gui":
+"GUI stands for Graphical User Interface. It allows users to interact using buttons, icons and menus.",
+
+"what is ui":
+"UI means User Interface. It includes all visual elements used by users.",
+
+"what is ux":
+"UX means User Experience. It focuses on user satisfaction and usability.",
+
+"what is protocol":
+"A protocol is a set of rules that govern communication between devices on a network.",
+
+"what is gps":
+"GPS stands for Global Positioning System. It helps determine the location of a device.",
+
+"what is wifi":
+"Wi-Fi is a wireless networking technology used to connect devices to the internet.",
+
+"what is camera":
+"A mobile camera captures photos and videos and supports video calling.",
+
+"what is sensor":
+"A sensor detects and measures physical conditions such as motion, light or proximity.",
+
+"what is proximity sensor":
+"A proximity sensor detects nearby objects and turns off the screen during calls.",
+
+"what is accelerometer":
+"An accelerometer measures acceleration and detects movement and orientation.",
+
+"what is gyroscope":
+"A gyroscope measures rotational movement and orientation.",
+
+"what is background worker":
+"Background workers perform tasks such as synchronization and notifications without direct user interaction.",
+
+"what is malware":
+"Malware is malicious software designed to damage systems or steal information.",
+
+"what is phishing":
+"Phishing is a cyberattack that tricks users into revealing sensitive information.",
+
+"what is cyber security":
+"Cyber security protects systems, networks and data from attacks.",
+
+"important questions":
+`1. Define Mobile Application Development.
+2. Explain GUI and UI.
+3. Explain GPS and its applications.
+4. Explain Sensors.
+5. Explain Wi-Fi and Data Connections.
+6. Explain Security Threats.`,
+
+"mcqs":
+`1. Android is developed by?
+A) Apple
+B) Google ✓
+C) Samsung
+D) Microsoft
+
+2. GPS stands for?
+A) Global Positioning System ✓
+B) General Position Service
+C) Geo Program Service
+D) Global Processing System`
+};
